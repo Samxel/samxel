@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/samxel">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,angular" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react" alt="Skill Icons" />
   </a>
 </p>
 
