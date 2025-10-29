@@ -39,5 +39,11 @@
 
 <br><br><br><br>
 <p align="center">
-  <img src="https://media.tenor.com/V0uu0QXudwMAAAAi/peepo-hey.gif" alt="Cooles GIF" width="100" />
+  <img src="https://media.tenor.com/V0uu0QXudwMAAAAi/peepo-hey.gif" alt="GIF" width="100" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samxel&color=blue" alt="Profile views"/>
 </p>
