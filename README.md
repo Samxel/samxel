@@ -6,7 +6,7 @@
   <a href="https://github.com/samxel">
     <img
       height="200"
-      src="https://github-readme-stats.vercel.app/api?username=samxel&rank_icon=github&theme=dark&hide_title=true&bg_color=00000000"
+      src="https://github-stats-extended.vercel.app/api?username=samxel&rank_icon=github&theme=dark&hide_title=true&bg_color=00000000"
       alt="GitHub Stats"
     />
   </a>
@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://github.com/samxel">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=samxel&layout=compact&theme=dark&bg_color=00000000"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=samxel&layout=compact&theme=dark&bg_color=00000000"
       alt="Top Languages"
     />
   </a>
