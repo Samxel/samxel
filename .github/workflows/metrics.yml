@@ -20,7 +20,7 @@ jobs:
           base_indepth: yes
           repositories_affiliations: owner
           config_timezone: Europe/Berlin  
-          committer_message: "chore: update metrics"
+          committer_message: "update metrics"
           retries: 3
           retries_delay: 300
           plugin_achievements: yes
